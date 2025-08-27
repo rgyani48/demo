@@ -1,4 +1,4 @@
 # demo
 This is my first repository.
 <br>
-author - Gyani Kumar
+author - Gyani Kumar (Sunny)
